@@ -40,7 +40,7 @@ h1 {
   color: var(--darkTxt);
 }
 .occupation {
-  word-spacing: -7px;
+  word-spacing: -3px;
   margin-top: -5px;
   margin-left: 1px;
 }
@@ -79,7 +79,6 @@ img[src="#"] {
 @media (min-width: 430px) and (max-width: 679px) {
   #wrapper {
     display: block;
-    -webkit-column-count: 2;
     -moz-column-count: 2;
     column-count: 2;
     gap: 2rem;
@@ -98,7 +97,6 @@ img[src="#"] {
   }
   #wrapper {
     display: block;
-    -webkit-column-count: 3;
     -moz-column-count: 3;
     column-count: 3;
     gap: 2rem;

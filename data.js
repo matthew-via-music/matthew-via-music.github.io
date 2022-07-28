@@ -5,7 +5,7 @@ data = [
     headline:
       "Invisible person spotted out walking dog after curfew imposed on invisible people.",
     lead: "quia et suscipit suscipit recusandae consequuntur expedita et cum reprehenderit molestiae ut ut quas totam nostrum rerum est autem sunt rem eveniet architecto et cum reprehenderit molestiae ut ut quas totam nostrum rerum est autem sunt rem eveniet architecto",
-    image: "https://olk1.com/mtpk_images/img26.jpg",
+    image: "https://olk1.com/mvm_article_images/img26.jpg",
     alt: "spearmint"
   },
   {
@@ -20,7 +20,7 @@ data = [
     byline: "Max",
     headline: "Better Spent Persian bride takes kilt off Scotsman.",
     lead: "quia et suscipit suscipit recusandae consequuntur expedita et cum reprehenderit molestiae ut ut quas totam nostrum rerum est autem sunt rem eveniet architecto expedita et cum reprehenderit molestiae ut",
-    image: "https://olk1.com/mtpk_images/img166.gif",
+    image: "https://olk1.com/mvm_article_images/img166.gif",
     alt: "animated gif"
   },
   {
@@ -47,7 +47,7 @@ data = [
     byline: "Lottie",
     headline: "Mars water turns in to sand on second sighting.",
     lead: "repudiandae veniam quaerat sunt sed alias aut fugiat sit autem sed est voluptatem omnis possimus esse voluptatibus quis est aut tenetur dolor neque",
-    image: "https://olk1.com/mtpk_images/img27.jpg",
+    image: "https://olk1.com/mvm_article_images/img27.jpg",
     alt: "pigmoth"
   },
   {
@@ -62,7 +62,7 @@ data = [
     headline:
       "New toffee white and dark chocolate magnum gets the deep freeze from customers.",
     lead: "dolore placeat quibusdam ea quo vitae magni quis enim qui quis quo nemo aut saepe quidem repellat excepturi ut quia sunt ut sequi eos ea sed quas",
-    image: "https://olk1.com/mtpk_images/img10.jpg",
+    image: "https://olk1.com/mvm_article_images/img10.jpg",
     alt: "calipso"
   },
   {
@@ -70,7 +70,7 @@ data = [
     byline: "Loco",
     headline: "City on the edge of destruction fights back with yodling.",
     lead: "dignissimos aperiam dolorem qui eum facilis quibusdam animi sint suscipit qui sint possimus cum quaerat magni maiores excepturi ipsam ut commodi dolor voluptatum modi aut vitae",
-    image: "https://olk1.com/mtpk_images/img85.gif",
+    image: "https://olk1.com/mvm_article_images/img85.gif",
     alt: "animated gif"
   },
   {
@@ -79,7 +79,7 @@ data = [
     headline:
       "Students attending ivy league colleges will soon be banned from sharpening pencils according to new academic guidelines.",
     lead: "consectetur animi nesciunt iure dolore enim quia ad veniam autem ut quam aut nobis et est aut quod aut provident voluptas autem voluptas",
-    image: "https://olk1.com/mtpk_images/img8.jpg",
+    image: "https://olk1.com/mvm_article_images/img8.jpg",
     alt: "infections"
   },
   {

@@ -23,6 +23,9 @@ header {
   display: grid;
   margin-bottom: 1.1rem;
 }
+a {
+  cursor: pointer;
+}
 header a,
 a:visited {
   color: inherit;

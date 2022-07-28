@@ -18,7 +18,7 @@ data = [
   {
     id: 10,
     byline: "Max",
-    headline: "Better Spent Persian bride takes kilt off Scotsman.",
+    headline: "Better Spent Persian bride buys kilt off Scotsman.",
     lead: "quia et suscipit suscipit recusandae consequuntur expedita et cum reprehenderit molestiae ut ut quas totam nostrum rerum est autem sunt rem eveniet architecto expedita et cum reprehenderit molestiae ut",
     image: "https://olk1.com/mvm_article_images/img166.gif",
     alt: "animated gif"

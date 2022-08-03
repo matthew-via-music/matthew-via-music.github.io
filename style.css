@@ -30,13 +30,6 @@ header a,
 a:visited {
   color: inherit;
 }
-.handle {
-  font-size: 0.8rem;
-  font-style: italic;
-}
-.handle span {
-  font-size: 0.6rem;
-}
 h1 {
   margin-top: -2px;
   font-size: 0.925rem;
@@ -44,7 +37,7 @@ h1 {
 }
 .occupation {
   word-spacing: -4px;
-  margin-top: -5px;
+  margin-bottom: 3px;
   margin-left: 1px;
 }
 /*  */

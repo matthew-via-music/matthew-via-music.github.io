@@ -1,13 +1,10 @@
 https://matthew-via-music.github.io
 
 ```
-images@500px
+images@500px ???
 ```
 
 
+- add js animations / generative art as links behind placeholder slots <- dropbox/dev archive
 
-<!-- 
-
-image: "https://olk1.com/mvm_article_images/img26.jpg", 
-
--->
+- clean up/remove/archive images in mvm_article_images directory

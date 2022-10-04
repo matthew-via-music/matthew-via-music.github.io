@@ -1,7 +1,10 @@
 :root {
-  --bg: #f8f8f8;
-  --red: #c62c2c;
-  --darkTxt: #003b4a;
+  --bg: #faf0ee;
+  --red: #f61313;
+  --darkTxt: #2E384D;
+  --lightTxt: #faf0ee;
+  --powderRed: #f8a6a188;
+  --powderRedMuted: #f8a6a133;
 }
 * {
   margin: 0;
@@ -10,25 +13,34 @@
 body {
   padding: 2rem;
   font-family: sans-serif;
-  background: var(--bg);
+  background: #f8f8f8;
   color: var(--red);
 }
 .container {
   max-width: 1100px;
   margin: 0 auto;
 }
-
+header:hover a.spotify{
+  color: var(--red);
+}
+header:hover .occupation span{
+  color: var(--darkTxt);
+}
+header:hover .occupation{
+  color: var(--red);
+}
 header {
   font-family: monospace;
   display: grid;
-  margin-bottom: 1.1rem;
+  margin-bottom: 1.5rem;
 }
 a {
   cursor: pointer;
 }
 header a,
-a:visited {
-  color: inherit;
+a, a:visited {
+  color: var(--powderRed);
+  text-decoration: none;
 }
 h1 {
   margin-top: -2px;
@@ -38,6 +50,10 @@ h1 {
 .occupation {
   word-spacing: -4px;
   margin-bottom: 3px;
+  color: var(--darkTxt);
+}
+.occupation span{
+  color: var(--red);
 }
 /*  */
 /*  */
@@ -48,15 +64,35 @@ h1 {
   word-spacing: -1px;
   letter-spacing: 0px;
 }
-h2 {
-  margin-bottom: 0.5rem;
+.info{
+  cursor: pointer;
 }
-p {
+.info:hover h2{
+  color: var(--powderRedMuted);
+  filter: blur(0px);
+}
+.info:hover p{
+  background-color: transparent;
+  color: var(--red);
+}
+.info:hover img{
+  filter: saturate(3);
+}
+h2 {
+  margin-top: 0;
+  margin-bottom: 12px;
+  color: var(--powderRed);
+  filter: blur(1px);
+}
+.info p {
+  /* background-color: var(--red); */
   color: var(--darkTxt);
-  margin-top: 12px;
-  letter-spacing: -5px;
+  margin-bottom: 12px;
+  font-weight: bold;
+  /* letter-spacing: -5px; */
 }
 img {
+  filter: saturate(5.5);
   display: block;
   max-width: 346px;
   width: 100%;
@@ -87,6 +123,7 @@ img[src="#"] {
 /*  */
 /*  */
 @media (min-width: 680px) {
+  
   header {
     margin-bottom: 1.5rem;
   }

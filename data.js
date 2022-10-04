@@ -4,16 +4,19 @@ data = [
     byline: "Amigo",
     headline:
       "Invisible person spotted out walking dog after curfew imposed on invisible people.",
-    lead: "quia et suscipit suscipit recusandae consequuntur expedita et cum reprehenderit molestiae ut ut quas totam nostrum rerum est autem sunt rem eveniet architecto et cum reprehenderit molestiae ut ut quas totam nostrum rerum est autem sunt rem eveniet architecto",
-    image: "https://olk1.com/mvm_article_images/img26.jpg",
-    alt: "spearmint",
+    lead: "Matthew Via Music: Full Stack API and Catalogue Resource. Metrics, search and documentation",
+    link: "https://matthewviamusic.com",
+    image: "https://matthewviamusic.com/images/docsimages/styleguide/3.png",
+    alt: "Matthew Via Music API"
   },
   {
     id: 11,
     byline: "Fred",
-    headline:
-      "Can I get a whoop-whoop, can I get a yeah-yeah? Text mash is the cope!",
-    lead: "quia et suscipit suscipit recusandae consequuntur expedita et cum reprehenderit molestiae ut ut quas totam nostrum rerum est autem sunt rem eveniet architecto",
+    headline: "Can I get a whoop-whoop, can I get a yeah-yeah?",
+    lead: "Local Trade Craft: Mobile First UI and Design Accents",
+    link: "https://kmlofts.olk1.com",
+    image: "https://olk1.com/mvm_article_images/km1.png",
+    alt: "Local Trade Craft"
   },
   {
     id: 10,
@@ -26,7 +29,7 @@ data = [
   {
     id: 9,
     byline: "Sandy",
-    headline: "Who can you trust now God is in a shoebox.",
+    headline: "Who can you trust now God is in a shoebox? Hint: It's not who you think it is",
     lead: "est rerum tempore vitae sequi sint nihil reprehenderit dolor beatae ea dolores neque fugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis qui aperiam non debitis possimus qui neque nisi nulla tempore vitae sequi sint nihil reprehenderit dolor beatae ea dolores neque fugiat",
   },
   {
@@ -38,8 +41,7 @@ data = [
   {
     id: 7,
     byline: "Amy",
-    headline:
-      "Where mixed messages matter the most and stop reading this already.",
+    headline:"Where mixed messages matter the most and stop reading this already.",
     lead: "ullam et saepe reiciendis voluptatem adipisci sit amet autem assumenda provident rerum culpa quis hic commodi nesciunt rem tenetur doloremque ipsam iure quis sunt voluptatem rerum illo velit",
   },
   {

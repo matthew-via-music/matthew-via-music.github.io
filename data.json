@@ -34,7 +34,8 @@
     "id": 9,
     "byline": "Sandy",
     "headline": "Who can you trust now God is in a shoebox? Hint: It's not who you think it is",
-    "lead": "et iusto sed quo iure voluptatem occaecati omnis eligendi aut ad voluptatem doloribus vel accusantium quis pariatur molestiae porro eius odio et labore et velit aut"
+    "lead": "Access all the data for this site here: https://matthew-via-music.github.io/data.json",
+    "link": "/data.json"
   },
   {
     "id": 8,
@@ -50,7 +51,7 @@
     "id": 7,
     "byline": "Amy",
     "headline":"Where mixed messages matter the most and stop reading this already.",
-    "lead": "ullam et saepe reiciendis voluptatem adipisci sit amet autem assumenda provident"
+    "lead": "Command line Python program for calculating and recording treadmill usage inline with manufacturers maintenance and servicing guidelines"
   },
   {
     "id": 6,
@@ -66,7 +67,7 @@
     "id": 5,
     "byline": "Dave",
     "headline": "Circus valour as clowns rescue lions and bears in Transylvania.",
-    "lead": "ut aspernatur corporis harum nihil quis provident sequi mollitia nobis aliquid"
+    "lead": "Miscellaneous projects from the archives"
   },
   {
     "id": 4,
@@ -74,6 +75,7 @@
     "headline":
       "New toffee white and dark chocolate magnum gets the deep freeze from customers.",
     "lead": "Utilising Standard HTML tags and CSS styling for lightspeed emphasis and information hierachy",
+    "link": "https://org.olk1.com/",
     "style": "sat",
     "image": "https://olk1.com/mvm_article_images/crud.png",
     "alt": "CRUD"
@@ -104,6 +106,6 @@
     "byline": "Aspin",
     "headline":
       "Big pharma attempts to out bid actual farmers in latest crop wars.",
-    "lead": "quo et expedita modi cum officia vel magni doloribus qui repudiandae vero nisi sit quos veniam quod sed accusamus veritatis error"
+    "lead": "Generative artworks programmed using P5.js and OOP"
   }
 ]

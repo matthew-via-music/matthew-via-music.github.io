@@ -21,7 +21,7 @@ body {
   margin: 0 auto;
 }
 header:hover a.spotify{
-  color: var(--red);
+  color: #c62c2c;
 }
 header:hover .occupation span{
   user-select: none;
@@ -41,7 +41,7 @@ a {
 }
 header a,
 a, a:visited {
-  color: var(--powderRed);
+  color: var(--red);
   text-decoration: none;
 }
 h1 {
@@ -52,10 +52,10 @@ h1 {
 .occupation {
   word-spacing: -4px;
   margin-bottom: 3px;
-  color: var(--darkTxt);
+  color: #c62c2c;
 }
 .occupation span{
-  color: var(--red);
+  color: var(--darkTxt);
 }
 /*  */
 /*  */
@@ -68,7 +68,8 @@ h1 {
 }
 h2 {
   margin-bottom: 0.5rem;
-  color: var(--red);
+  /* color: var(--red); */
+  color: #c62c2c;
 }
 .info p {
   color: var(--darkTxt);

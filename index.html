@@ -5,15 +5,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Matthew - Musician / Coder</title>
+    <link id="theme" rel="stylesheet" href="style.css" />
     <link
       rel="shortcut icon"
       href="https://easycss.github.io/favicon/favicon.png"
       type="image/x-icon"
     />
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="style.css" />
     <script src="data.json"></script>
     <script src="app.js" type="module"></script>
   </head>
@@ -21,7 +18,7 @@
     <div class="container">
       <header>
         <div class="header">
-          <p class="occupation">Musician <span>/ Coder</span></p>
+          <p class="occupation">Musician <span onclick="toggleTheme()">/ Coder</span></p>
           <h1>Matthew Via Music</h1>
           <div>
             <a
@@ -36,3 +33,13 @@
     </div>
   </body>
 </html>
+
+
+<script>
+function toggleTheme() {
+    // Make sure style.css is first link in HEAD or change [0] index
+    let theme = document.getElementsByTagName("link")[0];
+    
+    theme.getAttribute("href") == "style.css" ? theme.setAttribute("href", "style2.css") : theme.setAttribute("href", "style.css")
+}
+</script>

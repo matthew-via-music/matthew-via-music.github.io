@@ -1,3 +1,4 @@
+ 
 let json
 try {
   const res = await fetch(`./data.json`)
@@ -22,7 +23,7 @@ const result = json?.map(
   class="item" 
   key=${i}>
     <div class="info">
-      <a href=${d.link}>
+      <a href=${d.link ? d.link : "/"}>
         <h2>${d.headline}</h2>
         <p>${d.lead}</p>
         <img class=${d.style ? d?.style : null} src=${d.image ? d?.image : "#"} alt=${d.image ? (d?.alt).split(" ").join("-") : "#"} />

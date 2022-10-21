@@ -1,6 +1,7 @@
 :root {
   --bg: #faf0ee;
   --red: #f61313;
+  --green: green;
   --darkTxt: #2E384D;
   --lightTxt: #faf0ee;
   --powderRed: #f8a6a188;
@@ -75,7 +76,7 @@ h1 {
 }
 .info:hover p{
   background-color: transparent;
-  color: var(--red);
+  color: var(--green);
 }
 /* .info:hover img{
   filter: saturate(3);

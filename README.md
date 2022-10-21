@@ -10,7 +10,7 @@ images@500px ???
 
 - clean up/remove/archive images in mvm_article_images directory
 
-
+- finish TDG website
 
 
 

@@ -105,6 +105,9 @@ img {
 .sat{
   filter: saturate(3);
 }
+.satlow{
+  filter: saturate(1.3);
+}
 .brit{
   filter: brightness(1.1)
 }

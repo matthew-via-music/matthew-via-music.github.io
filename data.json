@@ -12,46 +12,42 @@
   },
   {
     "id": 11,
-    "byline": "Fred",
-    "headline": "Can I get a whoop-whoop, can I get a yeah-yeah?",
-    "lead": "The Development Group: Fulfilling your development and investment needs. Development & Investment Consultants",
-    "link": "https://tdg.olk1.com",
+    "byline": "Loco",
+    "headline": "City on the edge of destruction fights back with yodeling.",
+    "lead": "The Development Group: Fulfilling your development and investment needs",
+    "link": "https://tdg.olk1.com/",
     "style": "brit",
     "image": "https://olk1.com/mvm_article_images/tdg.png",
-    "alt": "Local Trade Craft"
-  },
+    "alt": "The Development Group"
+  },  
   {
     "id": 10,
-    "byline": "Max",
-    "headline": "Better Spent Persian bride buys kilt off Scotsman.",
-    "lead": "A random selector for the Vegan lifestyle in search of the finest cuisine",
-    "link": "https://vegandelight.olk1.com",
-    "style": "brit",
-    "image": "https://olk1.com/mvm_article_images/vegandelight.png",
-    "alt": "Vegan Delight"
+    "byline": "Dave",
+    "headline": "Circus valour as clowns rescue lions and bears in Transylvania.",
+    "lead": "Miscellaneous projects from the archives. Live and experiemental code bases."
   },
   {
     "id": 9,
-    "byline": "Sandy",
-    "headline": "Who can you trust now God is in a shoebox? Hint: It's not who you think it is.",
-    "lead": "Access all the data for this site here: https://matthew-via-music.github.io/data.json",
-    "link": "/data.json"
+    "byline": "Aspin",
+    "headline":
+      "Big pharma attempts to out bid actual farmers in latest crop wars.",
+    "lead": "Generative animated artworks programmed using the P5 Javascript library with both Functional and Object Oriented programming methodologies."
   },
   {
     "id": 8,
-    "byline": "Bob",
-    "headline": "Male pattern baldness, the fifth circle of hell.",
-    "lead": "Easy CSS: A suite of utilities for web development. Adhering to a simple design pattern allowing for ultra fast prototyping, beta testing and production grade deployment.",
-    "link": "https://github.com/easycss",
-    "style": "sat",
-    "image": "https://olk1.com/mvm_article_images/easygrid.jpg",
-    "alt": "Easy Grid"
+    "byline": "Max",
+    "headline": "Better Spent Persian bride buys kilt off Scotsman.",
+    "lead": "Dab Dab Toot: Socially conscious? Ethically minded? Trendy? Sure, yeah.",
+    "link": "https://dab.olk1.com",
+    "style": "brit",
+    "image": "https://olk1.com/mvm_article_images/dab.png",
+    "alt": "Dab Dab Toot"
   },
   {
     "id": 7,
     "byline": "Amy",
     "headline":"Where mixed messages matter the most and stop reading this already.",
-    "lead": "Command line Python program for calculating and recording treadmill usage inline with manufacturers maintenance and servicing guidelines"
+    "lead": "Command line Python CRUD and time calculation programs."
   },
   {
     "id": 6,
@@ -65,12 +61,33 @@
   },
   {
     "id": 5,
-    "byline": "Dave",
-    "headline": "Circus valour as clowns rescue lions and bears in Transylvania.",
-    "lead": "Miscellaneous projects from the archives"
+    "byline": "Bob",
+    "headline": "Male pattern baldness, the fifth circle of hell.",
+    "lead": "Easy CSS: A suite of utilities for web development and ultra fast prototyping and beta testing.",
+    "link": "https://github.com/easycss",
+    "style": "sat",
+    "image": "https://olk1.com/mvm_article_images/easygrid.jpg",
+    "alt": "Easy Grid"
   },
   {
     "id": 4,
+    "byline": "Sandy",
+    "headline": "Who can you trust now God is in a shoebox? Hint: It's not who you think it is.",
+    "lead": "Access all the data for this site here: https://musiciancoder.com/data.json",
+    "link": "/data.json"
+  },
+  {
+    "id": 3,
+    "byline": "Claire",
+    "headline": "Can I get a whoop-whoop, can I get a yeah-yeah?",
+    "lead": "Claire Ambler Weddings. A professional and friendly wedding planner and event organiser.",
+    "link": "https://claireamblerevents.co.uk",
+    "style": "satlow",
+    "image": "https://olk1.com/mvm_article_images/claire.png",
+    "alt": "Wedding Planner"
+  },
+  {
+    "id": 2,
     "byline": "Average",
     "headline":
       "New toffee white and dark chocolate magnum gets the deep freeze from customers.",
@@ -81,17 +98,7 @@
     "alt": "CRUD"
   },
   {
-    "id": 3,
-    "byline": "Loco",
-    "headline": "City on the edge of destruction fights back with yodeling.",
-    "lead": "Dab Dab Toot: Socially conscious? Ethically minded? Trendy? Sure, yeah.",
-    "link": "https://dab.olk1.com/",
-    "style": "brit",
-    "image": "https://olk1.com/mvm_article_images/dab.png",
-    "alt": "Dab Dab Toot"
-  },
-  {
-    "id": 2,
+    "id": 1,
     "byline": "Maurice",
     "headline":
       "Students attending ivy league colleges will soon be banned from sharpening pencils according to new academic guidelines.",
@@ -100,12 +107,5 @@
     "style": "sat",
     "image": "https://olk1.com/mvm_article_images/org.jpg",
     "alt": "Create Read Update Delete"
-  },
-  {
-    "id": 1,
-    "byline": "Aspin",
-    "headline":
-      "Big pharma attempts to out bid actual farmers in latest crop wars.",
-    "lead": "Generative artworks programmed using P5.js and OOP"
   }
 ]

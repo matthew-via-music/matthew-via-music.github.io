@@ -1,7 +1,7 @@
 [
   {
     "id": 12,
-    "byline": "Amigo",
+    "byline": "MVM",
     "headline":
       "Invisible person spotted out walking dog after curfew imposed on invisible people.",
     "lead": "Matthew Via Music: Full Stack API and Catalogue Resource. Metrics, search and documentation",
@@ -12,7 +12,7 @@
   },
   {
     "id": 11,
-    "byline": "Loco",
+    "byline": "TDG",
     "headline": "City on the edge of destruction fights back with yodeling.",
     "lead": "The Development Group: Fulfilling your development and investment needs",
     "link": "https://tdg.olk1.com/",
@@ -22,20 +22,21 @@
   },  
   {
     "id": 10,
-    "byline": "Dave",
+    "byline": "Misc",
     "headline": "Circus valour as clowns rescue lions and bears in Transylvania.",
-    "lead": "Miscellaneous projects from the archives. Live and experiemental code bases."
+    "lead": "Miscellaneous projects from the archives. Live and experiemental code bases.",
+    "link": "https://github.com/matthew-via-music/"
   },
   {
     "id": 9,
-    "byline": "Aspin",
+    "byline": "GenArt",
     "headline":
       "Big pharma attempts to out bid actual farmers in latest crop wars.",
     "lead": "Generative animated artworks programmed using the P5 Javascript library with both Functional and Object Oriented programming methodologies."
   },
   {
     "id": 8,
-    "byline": "Max",
+    "byline": "Dab",
     "headline": "Better Spent Persian bride buys kilt off Scotsman.",
     "lead": "Dab Dab Toot: Socially conscious? Ethically minded? Trendy? Sure, yeah.",
     "link": "https://dab.olk1.com",
@@ -45,13 +46,13 @@
   },
   {
     "id": 7,
-    "byline": "Amy",
+    "byline": "Py",
     "headline":"Where mixed messages matter the most and stop reading this already.",
     "lead": "Command line Python CRUD and time calculation programs."
   },
   {
     "id": 6,
-    "byline": "Lottie",
+    "byline": "PillPo",
     "headline": "Mars water turns in to sand on second sighting.",
     "lead": "Pill Popper: An app for documenting the time you took your medication or vitamins. Helps to remind you if you've taken it that day.",
     "link": "https://pillpopper.olk1.com/",
@@ -61,7 +62,7 @@
   },
   {
     "id": 5,
-    "byline": "Bob",
+    "byline": "Easy",
     "headline": "Male pattern baldness, the fifth circle of hell.",
     "lead": "Easy CSS: A suite of utilities for web development and ultra fast prototyping and beta testing.",
     "link": "https://github.com/easycss",
@@ -71,7 +72,7 @@
   },
   {
     "id": 4,
-    "byline": "Sandy",
+    "byline": "Json",
     "headline": "Who can you trust now God is in a shoebox? Hint: It's not who you think it is.",
     "lead": "Access all the data for this site here: https://musiciancoder.com/data.json",
     "link": "/data.json"
@@ -88,7 +89,7 @@
   },
   {
     "id": 2,
-    "byline": "Average",
+    "byline": "Org",
     "headline":
       "New toffee white and dark chocolate magnum gets the deep freeze from customers.",
     "lead": "Utilising Standard HTML tags and CSS styling for lightspeed emphasis and information hierachy",
@@ -99,7 +100,7 @@
   },
   {
     "id": 1,
-    "byline": "Maurice",
+    "byline": "Org",
     "headline":
       "Students attending ivy league colleges will soon be banned from sharpening pencils according to new academic guidelines.",
     "lead": "Create, read, update, delete. A gallery of ideas, experiments and musings.",

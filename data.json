@@ -24,7 +24,7 @@
     "id": 10,
     "byline": "Misc",
     "headline": "Circus valour as clowns rescue lions and bears in Transylvania.",
-    "lead": "Miscellaneous projects from the archives. Live and experiemental code bases.",
+    "lead": "Miscellaneous projects from the archives. Live and experimental code bases.",
     "link": "https://github.com/matthew-via-music/"
   },
   {
@@ -32,7 +32,8 @@
     "byline": "GenArt",
     "headline":
       "Big pharma attempts to out bid actual farmers in latest crop wars.",
-    "lead": "Generative animated artworks programmed using the P5 Javascript library with both Functional and Object Oriented programming methodologies."
+    "lead": "Generative animated artworks programmed using the P5 Javascript library with both Functional and Object Oriented programming methodologies.",
+    "link": "https://github.com/matthew-via-music/"
   },
   {
     "id": 8,
@@ -48,7 +49,8 @@
     "id": 7,
     "byline": "Py",
     "headline":"Where mixed messages matter the most and stop reading this already.",
-    "lead": "Command line Python CRUD and time calculation programs."
+    "lead": "Command line Python CRUD and time calculation programs.",
+    "link": "https://github.com/matthew-via-music/"
   },
   {
     "id": 6,
@@ -82,7 +84,7 @@
     "byline": "Claire",
     "headline": "Can I get a whoop-whoop, can I get a yeah-yeah?",
     "lead": "Claire Ambler Weddings. A professional and friendly wedding planner and event organiser.",
-    "link": "https://claireamblerevents.co.uk",
+    "link": "https://olk1.com/claireambler",
     "style": "satlow",
     "image": "https://olk1.com/mvm_article_images/claire.png",
     "alt": "Wedding Planner"

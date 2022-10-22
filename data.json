@@ -15,7 +15,7 @@
     "byline": "TDG",
     "headline": "City on the edge of destruction fights back with yodeling.",
     "lead": "The Development Group: Fulfilling your development and investment needs",
-    "link": "https://tdg.olk1.com/",
+    "link": "https://tdg.olk1.com",
     "style": "brit",
     "image": "https://olk1.com/mvm_article_images/tdg.png",
     "alt": "The Development Group"
@@ -25,7 +25,7 @@
     "byline": "Misc",
     "headline": "Circus valour as clowns rescue lions and bears in Transylvania.",
     "lead": "Miscellaneous projects from the archives. Live and experimental code bases.",
-    "link": "https://github.com/matthew-via-music/"
+    "link": "https://github.com/matthew-via-music"
   },
   {
     "id": 9,
@@ -33,7 +33,7 @@
     "headline":
       "Big pharma attempts to out bid actual farmers in latest crop wars.",
     "lead": "Generative animated artworks programmed using the P5 Javascript library with both Functional and Object Oriented programming methodologies.",
-    "link": "https://github.com/matthew-via-music/"
+    "link": "https://github.com/matthew-via-music"
   },
   {
     "id": 8,
@@ -50,7 +50,7 @@
     "byline": "Py",
     "headline":"Where mixed messages matter the most and stop reading this already.",
     "lead": "Command line Python CRUD and time calculation programs.",
-    "link": "https://github.com/matthew-via-music/"
+    "link": "https://github.com/matthew-via-music"
   },
   {
     "id": 6,
@@ -84,7 +84,7 @@
     "byline": "Claire",
     "headline": "Can I get a whoop-whoop, can I get a yeah-yeah?",
     "lead": "Claire Ambler Weddings. A professional and friendly wedding planner and event organiser.",
-    "link": "https://olk1.com/claireambler",
+    "link": "https://claireambler.olk1.com",
     "style": "satlow",
     "image": "https://olk1.com/mvm_article_images/claire.png",
     "alt": "Wedding Planner"
@@ -95,7 +95,7 @@
     "headline":
       "New toffee white and dark chocolate magnum gets the deep freeze from customers.",
     "lead": "Utilising Standard HTML tags and CSS styling for lightspeed emphasis and information hierachy",
-    "link": "https://org.olk1.com/",
+    "link": "https://org.olk1.com",
     "style": "sat",
     "image": "https://olk1.com/mvm_article_images/crud.png",
     "alt": "CRUD"

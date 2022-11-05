@@ -4,7 +4,7 @@
     "byline": "MVM",
     "headline":
       "Invisible person spotted out walking dog after curfew imposed on invisible people.",
-    "lead": "Matthew Via Music: Full Stack API and Catalogue Resource. Metrics, search and documentation",
+    "lead": "Full Stack API and Catalogue Resource. Metrics, search and documentation",
     "link": "https://matthewviamusic.com",
     "style": "sat",
     "image": "https://olk1.com/mvm_article_images/mvm.png",
@@ -14,7 +14,7 @@
     "id": 11,
     "byline": "TDG",
     "headline": "City on the edge of destruction fights back with yodeling.",
-    "lead": "The Development Group: Fulfilling your development and investment needs",
+    "lead": "GSAP animations bring a corporate website to life.",
     "link": "https://tdg.olk1.com",
     "style": "brit",
     "image": "https://olk1.com/mvm_article_images/tdg.png",
@@ -29,34 +29,36 @@
   },
   {
     "id": 9,
-    "byline": "GenArt",
-    "headline":
-      "Big pharma attempts to out bid actual farmers in latest crop wars.",
-    "lead": "Generative animated artworks programmed using the P5 Javascript library with both Functional and Object Oriented programming methodologies.",
-    "link": "https://github.com/matthew-via-music"
-  },
-  {
-    "id": 8,
     "byline": "Dab",
     "headline": "Better Spent Persian bride buys kilt off Scotsman.",
-    "lead": "Dab Dab Toot: Socially conscious? Ethically minded? Trendy? Sure, yeah.",
+    "lead": "User interaction via HTML canvas plus an awesome UX wrapped with creative graphic design and copywriting.",
     "link": "https://dab.olk1.com",
     "style": "brit",
     "image": "https://olk1.com/mvm_article_images/dab.png",
     "alt": "Dab Dab Toot"
   },
   {
+    "id": 8,
+    "byline": "Easy",
+    "headline": "Male pattern baldness, the fifth circle of hell.",
+    "lead": "A suite of web development utilities for ultra fast prototyping, testing and production grade deployment.",
+    "link": "https://easycss.github.io/",
+    "style": "sat",
+    "image": "https://olk1.com/mvm_article_images/easycss.png",
+    "alt": "Easy Grid"
+  },
+  {
     "id": 7,
     "byline": "Py",
     "headline":"Where mixed messages matter the most and stop reading this already.",
-    "lead": "Command line Python CRUD and time calculation programs.",
+    "lead": "A series of Command line Python applications providing create, read, update and delete (CRUD) functionality with search and time calculation options.",
     "link": "https://github.com/matthew-via-music"
   },
   {
     "id": 6,
     "byline": "PillPo",
     "headline": "Mars water turns in to sand on second sighting.",
-    "lead": "Pill Popper: An app for documenting the time you took your medication or vitamins. Helps to remind you if you've taken it that day.",
+    "lead": "Using Service Worker API for fast caching and App store free installation. Document your medication and vitamins with this handy web app.",
     "link": "https://pillpopper.olk1.com/",
     "style": "sat",
     "image": "https://olk1.com/mvm_article_images/pillpopper.png",
@@ -64,26 +66,27 @@
   },
   {
     "id": 5,
-    "byline": "Easy",
-    "headline": "Male pattern baldness, the fifth circle of hell.",
-    "lead": "Easy CSS: A suite of web development utilities for ultra fast prototyping, testing and production grade deployment.",
-    "link": "https://easycss.github.io/",
+    "byline": "Org",
+    "headline":
+      "New toffee white and dark chocolate magnum gets the deep freeze from customers.",
+    "lead": "Utilising Standard HTML tags and CSS styling for lightspeed emphasis and information hierachy.",
+    "link": "https://org.olk1.com",
     "style": "sat",
-    "image": "https://olk1.com/mvm_article_images/easycss.png",
-    "alt": "Easy Grid"
+    "image": "https://olk1.com/mvm_article_images/crud.png",
+    "alt": "CRUD"
   },
   {
     "id": 4,
     "byline": "Json",
     "headline": "Who can you trust now God is in a shoebox? Hint: It's not who you think it is.",
-    "lead": "Access all the data for this site here: https://musiciancoder.com/data.json",
+    "lead": "Access the raw data for this site here: https://musiciancoder.com/data.json",
     "link": "/data.json"
   },
   {
     "id": 3,
     "byline": "Claire",
     "headline": "Can I get a whoop-whoop, can I get a yeah-yeah?",
-    "lead": "Claire Ambler Weddings. A professional and friendly wedding planner and event organiser.",
+    "lead": "Modern design and functionality for an improved customer experience. Sophisticated mobile navigation optimised for IOS mobile device quirks.",
     "link": "https://claireambler.olk1.com",
     "style": "satlow",
     "image": "https://olk1.com/mvm_article_images/claire.png",
@@ -93,22 +96,26 @@
     "id": 2,
     "byline": "Org",
     "headline":
-      "New toffee white and dark chocolate magnum gets the deep freeze from customers.",
-    "lead": "Utilising Standard HTML tags and CSS styling for lightspeed emphasis and information hierachy",
-    "link": "https://org.olk1.com",
-    "style": "sat",
-    "image": "https://olk1.com/mvm_article_images/crud.png",
-    "alt": "CRUD"
-  },
-  {
-    "id": 1,
-    "byline": "Org",
-    "headline":
       "Students attending ivy league colleges will soon be banned from sharpening pencils according to new academic guidelines.",
-    "lead": "Create, read, update, delete. A gallery of ideas, experiments and musings.",
+    "lead": "Create, read, update, delete. Authentication and authorisation, registration and login user flow.",
     "link": "https://org.olk1.com/",
     "style": "sat",
     "image": "https://olk1.com/mvm_article_images/org.jpg",
     "alt": "Create Read Update Delete"
+  },
+  {
+    "id": 1,
+    "byline": "GenArt",
+    "headline":
+      "Big pharma attempts to out bid actual farmers in latest crop wars.",
+    "lead": "Generative animated artworks programmed using the P5 Javascript library with both Functional and Object Oriented programming methodologies.",
+    "link": "https://github.com/matthew-via-music"
+  },
+  {
+    "id": 0,
+    "byline": "Dev",
+    "headline": "Unexpected windfall flaws sky diving enthusiast weeks before take off.",
+    "lead": "This site is rendered dynamically using vanilla Javascript. Check it out here: https://musiciancoder.com/app.js",
+    "link": "/app.js"
   }
 ]

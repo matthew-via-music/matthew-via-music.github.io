@@ -22,10 +22,10 @@
   },  
   {
     "id": 10,
-    "byline": "Misc",
+    "byline": "Alt",
     "headline": "Circus valour as clowns rescue lions and bears in Transylvania.",
-    "lead": "Miscellaneous projects from the archives. Live and experimental code bases.",
-    "link": "https://github.com/matthew-via-music"
+    "lead": "An alternative presentation of these curated works and creativity",
+    "link": "https://astro.olk1.com/"
   },
   {
     "id": 9,
@@ -94,22 +94,22 @@
   },
   {
     "id": 2,
-    "byline": "Org",
+    "byline": "GenArt",
     "headline":
       "Students attending ivy league colleges will soon be banned from sharpening pencils according to new academic guidelines.",
-    "lead": "Create, read, update, delete. Authentication and authorisation, registration and login user flow.",
-    "link": "https://code.olk1.com/",
+    "lead": "Generative animated artworks programmed using the P5 Javascript library with both Functional and Object Oriented programming methodologies.",
+    "link": "https://ani.olk1.com/",
     "style": "sat",
-    "image": "https://olk1.com/mvm_article_images/org.jpg",
-    "alt": "Create Read Update Delete"
+    "image": "https://org.olk1.com/picz/1668879421.png",
+    "alt": "P5.js Animations"
   },
   {
     "id": 1,
-    "byline": "GenArt",
+    "byline": "CRUD",
     "headline":
       "Big pharma attempts to out bid actual farmers in latest crop wars.",
-    "lead": "Generative animated artworks programmed using the P5 Javascript library with both Functional and Object Oriented programming methodologies.",
-    "link": "https://github.com/matthew-via-music"
+    "lead": "Create, read, update, delete. Authentication and authorisation, registration and login user flow.",
+    "link": "https://code.olk1.com"
   },
   {
     "id": 0,

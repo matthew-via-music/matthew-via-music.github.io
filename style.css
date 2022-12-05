@@ -81,7 +81,7 @@ h1 {
 h2 {
   margin-top: 0;
   font-size: 1rem;
-  margin-bottom: 16px;
+  margin-bottom: 6px;
   color: var(--powderRed);
   filter: blur(1px);
   rotate: 0deg;

@@ -12,7 +12,7 @@
   padding: 0;
 }
 body {
-  padding: 2rem;
+  padding: 0rem 0rem 2rem;
   font-family: sans-serif;
   background: #f8f8f8;
   color: var(--red);
@@ -35,7 +35,7 @@ header:hover .occupation{
 header {
   font-family: monospace;
   display: grid;
-  margin-bottom: 1.5rem;
+  margin: 1.5rem 0rem 0rem;
 }
 a {
   cursor: pointer;
@@ -81,7 +81,7 @@ h1 {
 h2 {
   margin-top: 0;
   font-size: 1rem;
-  margin-bottom: 12px;
+  margin-bottom: 16px;
   color: var(--powderRed);
   filter: blur(1px);
   rotate: 0deg;
@@ -97,6 +97,7 @@ img {
   max-width: 346px;
   width: 100%;
   object-fit: cover;
+  margin-bottom: 6px;
 }
 .sat{
   filter: saturate(3);

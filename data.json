@@ -14,7 +14,7 @@
     "id": 11,
     "byline": "TDG",
     "headline": "City on the edge of destruction fights back with yodeling.",
-    "lead": "GSAP animations bring a corporate website to life.",
+    "lead": "GSAP animation guided UI user flow for an engaging UX.",
     "link": "https://tdg.olk1.com",
     "style": "brit",
     "image": "https://olk1.com/mvm_article_images/tdg.png",
@@ -41,7 +41,7 @@
     "id": 8,
     "byline": "Easy",
     "headline": "Male pattern baldness, the fifth circle of hell.",
-    "lead": "A suite of web development utilities for ultra fast prototyping, testing and production grade deployment.",
+    "lead": "Web development utilities suite for ultra fast prototyping, testing and production grade deployment.",
     "link": "https://easycss.github.io/",
     "style": "sat",
     "image": "https://olk1.com/mvm_article_images/easycss.png",
@@ -69,7 +69,7 @@
     "byline": "Org",
     "headline":
       "New toffee white and dark chocolate magnum gets the deep freeze from customers.",
-    "lead": "Utilising Standard HTML tags and CSS styling for lightspeed emphasis and information hierachy.",
+    "lead": "Utilising Standard HTML tags and CSS styling for lightspeed emphasis and information hierachy. PHP, C.R.U.D.",
     "link": "https://code.olk1.com",
     "style": "sat",
     "image": "https://olk1.com/mvm_article_images/crud.png",
@@ -84,6 +84,17 @@
   },
   {
     "id": 3,
+    "byline": "Loading...",
+    "headline":
+      "Big pharma attempts to out bid actual farmers in latest crop wars.",
+    "lead": "CSS animated SVG motion graphics presenting a visually appealing loading screen for user engagement during expensive data fetching.",
+    "link": "https://loading.olk1.com",
+    "style": "sat",
+    "image": "https://org.olk1.com/picz/1670249540.png",
+    "alt": "loading SVG animation"
+  },
+  {
+    "id": 2,
     "byline": "Claire",
     "headline": "Can I get a whoop-whoop, can I get a yeah-yeah?",
     "lead": "Modern design and functionality for an improved customer experience. Sophisticated mobile navigation optimised for IOS mobile device quirks.",
@@ -93,23 +104,15 @@
     "alt": "Wedding Planner"
   },
   {
-    "id": 2,
+    "id": 1,
     "byline": "GenArt",
     "headline":
       "Students attending ivy league colleges will soon be banned from sharpening pencils according to new academic guidelines.",
-    "lead": "Generative animated artworks programmed using the P5 Javascript library with both Functional and Object Oriented programming methodologies.",
+    "lead": "Generative animated artworks programmed using the P5 Javascript library.",
     "link": "https://ani.olk1.com/",
     "style": "sat",
     "image": "https://org.olk1.com/picz/1668879421.png",
     "alt": "P5.js Animations"
-  },
-  {
-    "id": 1,
-    "byline": "CRUD",
-    "headline":
-      "Big pharma attempts to out bid actual farmers in latest crop wars.",
-    "lead": "Create, read, update, delete. Authentication and authorisation, registration and login user flow.",
-    "link": "https://code.olk1.com"
   },
   {
     "id": 0,

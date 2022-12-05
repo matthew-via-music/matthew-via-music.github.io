@@ -79,7 +79,7 @@
     "id": 4,
     "byline": "Json",
     "headline": "Who can you trust now God is in a shoebox? Hint: It's not who you think it is.",
-    "lead": "Access the raw data for this site here: https://musiciancoder.com/data.json",
+    "lead": "Access the raw data for this site here: https://matthew-via-music.com/data.json",
     "link": "/data.json"
   },
   {
@@ -115,7 +115,7 @@
     "id": 0,
     "byline": "Dev",
     "headline": "Unexpected windfall flaws sky diving enthusiast weeks before take off.",
-    "lead": "This site is rendered dynamically using vanilla Javascript. Check it out here: https://musiciancoder.com/app.js",
+    "lead": "This site is rendered dynamically using vanilla Javascript. Check it out here: https://matthew-via-music.com/app.js",
     "link": "/app.js"
   }
 ]

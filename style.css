@@ -35,7 +35,7 @@ header:hover .occupation{
 header {
   font-family: monospace;
   display: grid;
-  margin: 1.5rem 0rem 0rem;
+  margin: 1.5rem 0rem;
 }
 a {
   cursor: pointer;
@@ -135,9 +135,6 @@ img[src="#"] {
 /*  */
 @media (min-width: 680px) {
   
-  header {
-    margin-bottom: 1.5rem;
-  }
   #wrapper {
     display: block;
     -moz-column-count: 3;

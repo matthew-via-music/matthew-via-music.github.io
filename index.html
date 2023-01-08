@@ -18,7 +18,8 @@
     <div class="container">
       <header>
         <div class="header">
-          <p class="occupation">Musician <span onclick="toggleTheme()">/ Coder</span></p>
+          <div>
+            <p class="occupation">Musician <span onclick="toggleTheme()">/ Coder</span></p>
           <h1>Matthew Via Music</h1>
           <div>
             <a
@@ -27,15 +28,27 @@
               ><span>Listen</span> on Spotify &larr;</a
             >
           </div>
+          </div>
+          
+          <div class="socials">
+            <a href="https://github.com/matthew-via-music"><img id="github" src="https://blog.matthew-via-music.com/assets/github.7ef9a437.svg" alt="github"></a>
+            <a href="https://open.spotify.com/artist/66OsKKYin7yLMQUsZxjE91"><img id="spotify" src="https://blog.matthew-via-music.com/assets/spotify.0705644c.svg" alt="spotify"></a>
+          </div>
+
         </div>
       </header>
       <div id="wrapper"></div>
+
+      <div class="blog-link">
+        <a href="https://blog.matthew-via-music.com/">&rarr; https://blog.matthew-via-music.com/</a>
+      </div>
     </div>
   </body>
 </html>
 
 
 <script>
+
 function toggleTheme() {
     // Make sure style.css is first link in HEAD or change [0] index
     let theme = document.getElementsByTagName("link")[0];

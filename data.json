@@ -31,7 +31,7 @@
     "id": 9,
     "byline": "Dab",
     "headline": "Better Spent Persian bride buys kilt off Scotsman.",
-    "lead": "User interaction via HTML canvas plus an awesome UX wrapped with creative graphic design and copywriting.",
+    "lead": "HTML canvas UX plus awesome creative graphic design and copywriting.",
     "link": "https://dab.olk1.com",
     "style": "brit",
     "image": "https://olk1.com/mvm_article_images/dab.png",
@@ -57,7 +57,7 @@
   {
     "id": 6,
     "byline": "PillPo",
-    "headline": "Mars water turns in to sand on second sighting.",
+    "headline": "Mars water turns to sand on second sighting.",
     "lead": "Using Service Worker API for fast caching and App store free installation. Document your medication and vitamins with this handy web app.",
     "link": "https://pillpopper.olk1.com/",
     "style": "sat",
@@ -69,11 +69,11 @@
     "byline": "Org",
     "headline":
       "New toffee white and dark chocolate magnum gets the deep freeze from customers.",
-    "lead": "Utilising Standard HTML tags and CSS styling for lightspeed emphasis and information hierachy. PHP, C.R.U.D.",
+    "lead": "LAMP stack, CRUD operation, A/Auth. Utilising Standard HTML tags and CSS styling for lightspeed emphasis and information hierachy.",
     "link": "https://code.olk1.com",
     "style": "sat",
-    "image": "https://olk1.com/mvm_article_images/crud.png",
-    "alt": "CRUD"
+    "image": "https://org.olk1.com/picz/1673164699.png",
+    "alt": "LAMP/CRUD/Auth"
   },
   {
     "id": 4,
@@ -108,10 +108,10 @@
     "byline": "GenArt",
     "headline":
       "Students attending ivy league colleges will soon be banned from sharpening pencils according to new academic guidelines.",
-    "lead": "Generative animated artworks programmed using the P5 Javascript library.",
-    "link": "https://ani.olk1.com/",
-    "style": "sat",
-    "image": "https://org.olk1.com/picz/1668879421.png",
+    "lead": "Generative geometric patterns programmed using functional Javascript and the P5 library.",
+    "link": "https://geogen.olk1.com/",
+    "style": "sat2",
+    "image": "https://org.olk1.com/picz/1673179336.png",
     "alt": "P5.js Animations"
   },
   {
